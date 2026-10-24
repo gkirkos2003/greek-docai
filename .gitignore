@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+*.el.json
+*.paddle.json
+samples_hard/
+samples_pdf/
+realtest/
+data/
+results*.json
+out/
+*.log
+*.gguf

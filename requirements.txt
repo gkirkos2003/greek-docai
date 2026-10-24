@@ -1,0 +1,8 @@
+# OCR (PaddleOCR 3.x — needed for the Greek recogniser el_PP-OCRv5_mobile_rec)
+paddleocr>=3.0
+paddlepaddle-gpu>=3.0   # or paddlepaddle for CPU only
+numpy
+pillow
+pycairo                 # only for to_pdf.py
+# system tools: poppler-utils (pdftotext, pdftoppm), DejaVu fonts (make_invoice.py)
+# optional: a llama.cpp server with a vision model (Qwen3-VL-4B) for the escalation path
