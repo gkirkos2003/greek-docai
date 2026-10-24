@@ -1,0 +1,43 @@
+
+invoice_001_fax.png
+  gross_amount              1.58   — readers disagree (OCR 1.58 vs VLM 1577.23)
+  check: net + vat ≠ gross (1487.95 + 89.28 ≠ 1.58)
+
+invoice_002_fax.png
+  line  Kaφές espresso 1kg                 15.0 × 1.0 = 281.25   — 15 × 1 ≠ 281.25
+
+invoice_003_fax.png
+  issuer_vat           497236329   — only the vision model saw this
+
+invoice_004_copy.png
+  issuer_vat           210773681   — only the vision model saw this
+
+invoice_004_fax.png
+  issuer_vat           210773681   — only the vision model saw this
+
+invoice_005_fax.png
+  issuer_vat           896487718   — only the vision model saw this
+
+invoice_006_fax.png
+  line  Καφές espresso 1kg                 10.0 × 1.0 = 187.5   — 10 × 1 ≠ 187.5
+
+invoice_007_copy.png
+  line  Ανταλλακτικά αντλίας               2.0 × 164.3 = 3.0   — 2 × 164.3 ≠ 3
+  check: line items sum to 350.50, net says 676.10
+  check: line items do NOT balance to the net
+
+invoice_007_fax.png
+  issuer_vat           523938499   — only the vision model saw this
+  line  Kaφές espresso 1kg                 12.0 × 1.0 = 225.0   — 12 × 1 ≠ 225
+
+invoice_009_fax.png
+  issuer_vat           386833407   — only the vision model saw this
+
+invoice_010_copy.png
+  line  Χαρτί A4 80gr (κιβώτιο)            9.0 × 24.0 = 220.5   — 9 × 24 ≠ 220.5
+  line  Συσκευασία δεμάτων                 150.0 × 0.85 = 127.0   — 150 × 0.85 ≠ 127
+  check: line items sum to 1690.50, net says 1691.00
+  check: line items do NOT balance to the net
+
+invoice_010_fax.png
+  issuer_vat           560516116   — only the vision model saw this

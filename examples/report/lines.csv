@@ -1,0 +1,265 @@
+file,invoice_number,description,quantity,unit_price,line_total,status
+invoice_001_copy.png,8/7464,Καφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_copy.png,8/7464,Μελάνι εκτυπωτή ΗΡ 305,2.0,31.9,63.8,confident
+invoice_001_copy.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_copy.png,8/7464,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_copy.png,8/7464,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_copy.png,8/7464,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_001_fax.png,8/7464,Καφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_fax.png,8/7464,Μελάνι εκτυπωτή HP 305,2.0,31.9,63.8,confident
+invoice_001_fax.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_fax.png,8/7464,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_fax.png,8/7464,Ωρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_fax.png,8/7464,Αυτοάλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_001_jpeg.png,8/7464,Κaφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_jpeg.png,8/7464,Μελάνι εκτυπωτή ΗΡ 305,2.0,31.9,63.8,confident
+invoice_001_jpeg.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_jpeg.png,8/7464,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_jpeg.png,8/7464,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_jpeg.png,8/7464,Αυταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_001_photo.png,8/7464,Καφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_photo.png,8/7464,Μελάνι εκτυπωτή ΗΡ 305,2.0,31.9,63.8,confident
+invoice_001_photo.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_photo.png,8/7464,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_photo.png,8/7464,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_photo.png,8/7464,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_001_scan.png,8/7464,Καφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_scan.png,8/7464,Μελάνι εκτυπωτή ΗΡ 305,2.0,31.9,63.8,confident
+invoice_001_scan.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_scan.png,8/7464,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_scan.png,8/7464,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_scan.png,8/7464,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_001_toner.png,8/7464,Καφές espresso 1kg,19.0,18.75,356.25,confident
+invoice_001_toner.png,8/7464,Μελάνι εκτυπωτή ΗΡ 305,2.0,31.9,63.8,confident
+invoice_001_toner.png,8/7464,Συσκευασία δεμάτων,208.0,0.85,176.8,confident
+invoice_001_toner.png,8/7464,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_001_toner.png,8/7464,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_001_toner.png,8/7464,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_002_copy.png,3/5148,Ωρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_copy.png,3/5148,Χαρτί A4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_copy.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_copy.png,3/5148,Καφές espresso 1kg,15.0,18.75,281.25,confident
+invoice_002_fax.png,3/5148,Ωρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_fax.png,3/5148,Χαρτί Α4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_fax.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_fax.png,3/5148,Kaφές espresso 1kg,15.0,1.0,281.25,needs_review
+invoice_002_jpeg.png,3/5148,Ώρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_jpeg.png,3/5148,Χαρτί Α4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_jpeg.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_jpeg.png,3/5148,Καφές espresso 1kg,15.0,18.75,281.25,confident
+invoice_002_photo.png,3/5148,Ώρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_photo.png,3/5148,Χαρτί A4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_photo.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_photo.png,3/5148,Καφές espresso 1kg,15.0,18.75,281.25,confident
+invoice_002_scan.png,3/5148,Ώρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_scan.png,3/5148,Χαρτί Α4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_scan.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_scan.png,3/5148,Καφές espresso 1kg,15.0,18.75,281.25,confident
+invoice_002_toner.png,3/5148,Ώρες τεχνικής υποστήριξης,13.0,55.0,715.0,confident
+invoice_002_toner.png,3/5148,Χαρτί Α4 80gr (κιβώτιο),6.0,24.5,147.0,confident
+invoice_002_toner.png,3/5148,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_002_toner.png,3/5148,Καφές espresso 1kg,15.0,18.75,281.25,confident
+invoice_003_copy.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_copy.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_copy.png,8/9616,Κaφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_003_fax.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_fax.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_fax.png,8/9616,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_003_jpeg.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_jpeg.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_jpeg.png,8/9616,Kαφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_003_photo.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_photo.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_photo.png,8/9616,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_003_scan.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_scan.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_scan.png,8/9616,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_003_toner.png,8/9616,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_003_toner.png,8/9616,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_003_toner.png,8/9616,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_004_copy.png,7/7945,Χαρτί A4 80gr (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_copy.png,7/7945,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_004_copy.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_004_fax.png,7/7945,Χαρτί Α4 80gr (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_fax.png,7/7945,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_004_fax.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_004_jpeg.png,7/7945,Χαρτί Α4 80gr (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_jpeg.png,7/7945,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_004_jpeg.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_004_photo.png,7/7945,Χαρτί Α4 80gι (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_photo.png,7/7945,Ελαιόλαδο 5It,20.0,42.0,840.0,confident
+invoice_004_photo.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_004_scan.png,7/7945,Χαρτί Α4 80gr (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_scan.png,7/7945,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_004_scan.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_004_toner.png,7/7945,Χαρτί Α4 80gr (κιβώτιο),8.0,24.5,196.0,confident
+invoice_004_toner.png,7/7945,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_004_toner.png,7/7945,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_005_copy.png,9/575,Χαρτί Α4 :80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_copy.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_copy.png,9/575,Μελάνι εκτυπωτή ΗΡ 305,3.0,31.9,95.7,confident
+invoice_005_copy.png,9/575,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_005_fax.png,9/575,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_fax.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_fax.png,9/575,Μελάνι εκτυπωτή HP 305,3.0,31.9,95.7,confident
+invoice_005_fax.png,9/575,Τοιχέντο 25kg,40.0,7.2,288.0,confident
+invoice_005_jpeg.png,9/575,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_jpeg.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_jpeg.png,9/575,Μελάνι εκτυπωτή ΗΡ305,3.0,31.9,95.7,confident
+invoice_005_jpeg.png,9/575,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_005_photo.png,9/575,Χαρτί A4 80gι (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_photo.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_photo.png,9/575,Μελάνι εκτυπωτή ΗΡ 305,3.0,31.9,95.7,confident
+invoice_005_photo.png,9/575,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_005_scan.png,9/575,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_scan.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_scan.png,9/575,Μελάνι εκτυπωτή ΗΡ 305,3.0,31.9,95.7,confident
+invoice_005_scan.png,9/575,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_005_toner.png,9/575,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_005_toner.png,9/575,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_005_toner.png,9/575,Μελάνι εκτυπωτή ΗΡ 305,3.0,31.9,95.7,confident
+invoice_005_toner.png,9/575,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_006_copy.png,5/703,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_006_copy.png,5/703,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_copy.png,5/703,Χαρτί Α4 80gr (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_copy.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_copy.png,5/703,Καφές espresso 1kg,10.0,18.75,187.5,confident
+invoice_006_copy.png,5/703,Μελάνι εκτυπωτή ΗΡ 305,4.0,31.9,127.6,confident
+invoice_006_fax.png,5/703,Ανταλλακτικά αυτάλιας,2.0,164.3,328.6,confident
+invoice_006_fax.png,5/703,Ωρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_fax.png,5/703,Χαρτί A4 80gr (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_fax.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_fax.png,5/703,Καφές espresso 1kg,10.0,1.0,187.5,needs_review
+invoice_006_fax.png,5/703,Μελάνι εκτυπωτή HP 305,4.0,31.9,127.6,confident
+invoice_006_jpeg.png,5/703,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_006_jpeg.png,5/703,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_jpeg.png,5/703,Χαρτί A4 80gr (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_jpeg.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_jpeg.png,5/703,Καφές espresso 1kg,10.0,18.75,187.5,confident
+invoice_006_jpeg.png,5/703,Μελάνι εκτυπωτή ΗΡ 305,4.0,31.9,127.6,confident
+invoice_006_photo.png,5/703,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_006_photo.png,5/703,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_photo.png,5/703,Χαρτί Α4 80gι (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_photo.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_photo.png,5/703,Καφές espresso 1kg,10.0,18.75,187.5,confident
+invoice_006_photo.png,5/703,Μελάνι εκτυπωτή ΗΡ 305,4.0,31.9,127.6,confident
+invoice_006_scan.png,5/703,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_006_scan.png,5/703,Ώρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_scan.png,5/703,Χαρτί Α4 80gr (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_scan.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_scan.png,5/703,Καφές espresso 1kg,10.0,18.75,187.5,confident
+invoice_006_scan.png,5/703,Μελάνι εκτυπωτή ΗΡ 305,4.0,31.9,127.6,confident
+invoice_006_toner.png,5/703,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_006_toner.png,5/703,Όρες τεχνικής υποστήριξης,8.0,55.0,440.0,confident
+invoice_006_toner.png,5/703,Χαρτί Α4 80gr (κιβώτιο),3.0,24.5,73.5,confident
+invoice_006_toner.png,5/703,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_006_toner.png,5/703,Καφές espresso 1kg,10.0,18.75,187.5,confident
+invoice_006_toner.png,5/703,Μελάνι εκτυπωτή ΗΡ 305,4.0,31.9,127.6,confident
+invoice_007_copy.png,1/1286,Ανταλλακτικά αντλίας,2.0,164.3,3.0,needs_review
+invoice_007_copy.png,1/1286,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_copy.png,1/1286,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_007_fax.png,1/1286,Αυτολλακτικά αυτλίας,2.0,164.3,328.6,confident
+invoice_007_fax.png,1/1286,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_fax.png,1/1286,Kaφές espresso 1kg,12.0,1.0,225.0,needs_review
+invoice_007_jpeg.png,1/1286,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_007_jpeg.png,1/1286,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_jpeg.png,1/1286,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_007_photo.png,1/1286,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_007_photo.png,1/1286,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_photo.png,1/1286,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_007_scan.png,1/1286,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_007_scan.png,1/1286,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_scan.png,1/1286,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_007_toner.png,1/1286,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_007_toner.png,1/1286,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_007_toner.png,1/1286,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_copy.png,4/817,Τοιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_copy.png,4/817,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_copy.png,4/817,Ελαιόλαδο 5lt.,20.0,42.0,840.0,confident
+invoice_008_copy.png,4/817,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_008_fax.png,4/817,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_fax.png,4/817,Kaφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_fax.png,4/817,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_008_fax.png,4/817,Αυτολλοκτικά αντλίας,2.0,164.3,328.6,confident
+invoice_008_jpeg.png,4/817,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_jpeg.png,4/817,Kαφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_jpeg.png,4/817,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_008_jpeg.png,4/817,Ανταλλακτικά αυτλίας,2.0,164.3,328.6,confident
+invoice_008_photo.png,4/817,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_photo.png,4/817,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_photo.png,4/817,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_008_photo.png,4/817,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_008_scan.png,4/817,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_scan.png,4/817,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_scan.png,4/817,Ελαιόλαδο 5It,20.0,42.0,840.0,confident
+invoice_008_scan.png,4/817,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_008_toner.png,4/817,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_008_toner.png,4/817,Καφές espresso 1kg,12.0,18.75,225.0,confident
+invoice_008_toner.png,4/817,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_008_toner.png,4/817,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_009_copy.png,3/205,Ώρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_copy.png,3/205,Μελάνι εκτυπωτή ΗΡ 3.05,5.0,31.9,159.5,confident
+invoice_009_copy.png,3/205,Αυταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_009_copy.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_copy.png,3/205,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_009_copy.png,3/205,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_009_fax.png,3/205,Ωρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_fax.png,3/205,Μελάνι εκτυπωτή HP 305,5.0,31.9,159.5,confident
+invoice_009_fax.png,3/205,Αυτολλακτικά αυτάλιας,2.0,164.3,328.6,confident
+invoice_009_fax.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_fax.png,3/205,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_009_fax.png,3/205,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_009_jpeg.png,3/205,Ώρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_jpeg.png,3/205,Μελάνι εκτυπωτή ΗΡ 305,5.0,31.9,159.5,confident
+invoice_009_jpeg.png,3/205,Αυταλλακτικά αυτλίας,2.0,164.3,328.6,confident
+invoice_009_jpeg.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_jpeg.png,3/205,Ελαιόλαβο 5lt,20.0,42.0,840.0,confident
+invoice_009_jpeg.png,3/205,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_009_photo.png,3/205,Ώρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_photo.png,3/205,Μελάνι εκτυπωτή HΡ 305,5.0,31.9,159.5,confident
+invoice_009_photo.png,3/205,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_009_photo.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_photo.png,3/205,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_009_photo.png,3/205,Χαρτί A4 80gι (κιβώτιο),5.0,24.5,122.5,confident
+invoice_009_scan.png,3/205,Ώρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_scan.png,3/205,Μελάνι εκτυπωτή ΗΡ 305,5.0,31.9,159.5,confident
+invoice_009_scan.png,3/205,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_009_scan.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_scan.png,3/205,Ελαιόλαδο 5It,20.0,42.0,840.0,confident
+invoice_009_scan.png,3/205,Χαρτί Α4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_009_toner.png,3/205,Ώρες τεχνικής υποστήριξης,6.0,55.0,330.0,confident
+invoice_009_toner.png,3/205,Μελάνι εκτυπωτή ΗΡ 305,5.0,31.9,159.5,confident
+invoice_009_toner.png,3/205,Ανταλλακτικά αντλίας,2.0,164.3,328.6,confident
+invoice_009_toner.png,3/205,Μεταφορικά έξοδα,1.0,85.0,85.0,confident
+invoice_009_toner.png,3/205,Ελαιόλαδο 5lt,20.0,42.0,840.0,confident
+invoice_009_toner.png,3/205,Χαρτί A4 80gr (κιβώτιο),5.0,24.5,122.5,confident
+invoice_010_copy.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_copy.png,1/3476,Χαρτί A4 80gr (κιβώτιο),9.0,24.0,220.5,needs_review
+invoice_010_copy.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.0,needs_review
+invoice_010_copy.png,1/3476,Ώρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_copy.png,1/3476,Τοιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_010_fax.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_fax.png,1/3476,Χαρτί A4 80gr (κιβώτιο),9.0,24.5,220.5,confident
+invoice_010_fax.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_010_fax.png,1/3476,Ώρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_fax.png,1/3476,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_010_jpeg.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_jpeg.png,1/3476,Χαρτί A4 80gr (κιβώτιο),9.0,24.5,220.5,confident
+invoice_010_jpeg.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_010_jpeg.png,1/3476,Ώρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_jpeg.png,1/3476,Τοιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_010_photo.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_photo.png,1/3476,Χαρτί A4 80gr (κιβώτιο),9.0,24.5,220.5,confident
+invoice_010_photo.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_010_photo.png,1/3476,Ώρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_photo.png,1/3476,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_010_scan.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_scan.png,1/3476,Χαρτί Α4 80gr (κιβώτιο),9.0,24.5,220.5,confident
+invoice_010_scan.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_010_scan.png,1/3476,Ώρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_scan.png,1/3476,Τσιμέντο 25kg,40.0,7.2,288.0,confident
+invoice_010_toner.png,1/3476,Υπηρεσίες συντήρησης,1.0,450.0,450.0,confident
+invoice_010_toner.png,1/3476,Χαρτί Α4 80gr (κιβώτιο),9.0,24.5,220.5,confident
+invoice_010_toner.png,1/3476,Συσκευασία δεμάτων,150.0,0.85,127.5,confident
+invoice_010_toner.png,1/3476,Όρες τεχνικής υποστήριξης,11.0,55.0,605.0,confident
+invoice_010_toner.png,1/3476,Τσιμέντο 25kg,40.0,7.2,288.0,confident
