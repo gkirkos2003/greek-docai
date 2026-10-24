@@ -1,0 +1,32 @@
+{
+ "issuer_name": "ΤΕΧΝΟΔΟΜΗ Ι.Κ.Ε.",
+ "issuer_vat": "523938499",
+ "client_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "client_vat": "798935572",
+ "invoice_number": "1/1286",
+ "invoice_date": "27/09/2026",
+ "net_amount": 676.1,
+ "vat_rate": 24,
+ "vat_amount": 162.26,
+ "gross_amount": 838.36,
+ "line_items": [
+  {
+   "description": "Ανταλλακτικά αντλίας",
+   "quantity": 2,
+   "unit_price": 164.3,
+   "line_total": 328.6
+  },
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 5,
+   "unit_price": 24.5,
+   "line_total": 122.5
+  },
+  {
+   "description": "Καφές espresso 1kg",
+   "quantity": 12,
+   "unit_price": 18.75,
+   "line_total": 225.0
+  }
+ ]
+}

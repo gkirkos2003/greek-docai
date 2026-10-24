@@ -1,0 +1,38 @@
+{
+ "issuer_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "issuer_vat": "503049883",
+ "client_name": "ΔΕΛΤΑ ΛΟΓΙΣΤΙΚΗ Ε.Ε.",
+ "client_vat": "235646772",
+ "invoice_number": "4/817",
+ "invoice_date": "03/03/2026",
+ "net_amount": 1681.6,
+ "vat_rate": 13,
+ "vat_amount": 218.61,
+ "gross_amount": 1900.21,
+ "line_items": [
+  {
+   "description": "Τσιμέντο 25kg",
+   "quantity": 40,
+   "unit_price": 7.2,
+   "line_total": 288.0
+  },
+  {
+   "description": "Καφές espresso 1kg",
+   "quantity": 12,
+   "unit_price": 18.75,
+   "line_total": 225.0
+  },
+  {
+   "description": "Ελαιόλαδο 5lt",
+   "quantity": 20,
+   "unit_price": 42.0,
+   "line_total": 840.0
+  },
+  {
+   "description": "Ανταλλακτικά αντλίας",
+   "quantity": 2,
+   "unit_price": 164.3,
+   "line_total": 328.6
+  }
+ ]
+}

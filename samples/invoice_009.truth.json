@@ -1,0 +1,50 @@
+{
+ "issuer_name": "ΔΕΛΤΑ ΛΟΓΙΣΤΙΚΗ Ε.Ε.",
+ "issuer_vat": "386833407",
+ "client_name": "ΤΕΧΝΟΔΟΜΗ Ι.Κ.Ε.",
+ "client_vat": "248755562",
+ "invoice_number": "3/205",
+ "invoice_date": "11/09/2026",
+ "net_amount": 1865.6,
+ "vat_rate": 6,
+ "vat_amount": 111.94,
+ "gross_amount": 1977.54,
+ "line_items": [
+  {
+   "description": "Ώρες τεχνικής υποστήριξης",
+   "quantity": 6,
+   "unit_price": 55.0,
+   "line_total": 330.0
+  },
+  {
+   "description": "Μελάνι εκτυπωτή HP 305",
+   "quantity": 5,
+   "unit_price": 31.9,
+   "line_total": 159.5
+  },
+  {
+   "description": "Ανταλλακτικά αντλίας",
+   "quantity": 2,
+   "unit_price": 164.3,
+   "line_total": 328.6
+  },
+  {
+   "description": "Μεταφορικά έξοδα",
+   "quantity": 1,
+   "unit_price": 85.0,
+   "line_total": 85.0
+  },
+  {
+   "description": "Ελαιόλαδο 5lt",
+   "quantity": 20,
+   "unit_price": 42.0,
+   "line_total": 840.0
+  },
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 5,
+   "unit_price": 24.5,
+   "line_total": 122.5
+  }
+ ]
+}

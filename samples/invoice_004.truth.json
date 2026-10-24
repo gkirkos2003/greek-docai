@@ -1,0 +1,32 @@
+{
+ "issuer_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "issuer_vat": "210773681",
+ "client_name": "ΔΕΛΤΑ ΛΟΓΙΣΤΙΚΗ Ε.Ε.",
+ "client_vat": "874400755",
+ "invoice_number": "7/7945",
+ "invoice_date": "05/02/2026",
+ "net_amount": 1121.0,
+ "vat_rate": 24,
+ "vat_amount": 269.04,
+ "gross_amount": 1390.04,
+ "line_items": [
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 8,
+   "unit_price": 24.5,
+   "line_total": 196.0
+  },
+  {
+   "description": "Ελαιόλαδο 5lt",
+   "quantity": 20,
+   "unit_price": 42.0,
+   "line_total": 840.0
+  },
+  {
+   "description": "Μεταφορικά έξοδα",
+   "quantity": 1,
+   "unit_price": 85.0,
+   "line_total": 85.0
+  }
+ ]
+}

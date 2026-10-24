@@ -1,0 +1,50 @@
+{
+ "issuer_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "issuer_vat": "373878287",
+ "client_name": "ΑΦΟΙ ΠΑΠΑΔΟΠΟΥΛΟΥ Ο.Ε.",
+ "client_vat": "226614242",
+ "invoice_number": "8/7464",
+ "invoice_date": "16/11/2026",
+ "net_amount": 1487.95,
+ "vat_rate": 6,
+ "vat_amount": 89.28,
+ "gross_amount": 1577.23,
+ "line_items": [
+  {
+   "description": "Καφές espresso 1kg",
+   "quantity": 19,
+   "unit_price": 18.75,
+   "line_total": 356.25
+  },
+  {
+   "description": "Μελάνι εκτυπωτή HP 305",
+   "quantity": 2,
+   "unit_price": 31.9,
+   "line_total": 63.8
+  },
+  {
+   "description": "Συσκευασία δεμάτων",
+   "quantity": 208,
+   "unit_price": 0.85,
+   "line_total": 176.8
+  },
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 5,
+   "unit_price": 24.5,
+   "line_total": 122.5
+  },
+  {
+   "description": "Ώρες τεχνικής υποστήριξης",
+   "quantity": 8,
+   "unit_price": 55.0,
+   "line_total": 440.0
+  },
+  {
+   "description": "Ανταλλακτικά αντλίας",
+   "quantity": 2,
+   "unit_price": 164.3,
+   "line_total": 328.6
+  }
+ ]
+}

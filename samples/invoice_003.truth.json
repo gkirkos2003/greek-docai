@@ -1,0 +1,32 @@
+{
+ "issuer_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "issuer_vat": "497236329",
+ "client_name": "ΤΕΧΝΟΔΟΜΗ Ι.Κ.Ε.",
+ "client_vat": "748454207",
+ "invoice_number": "8/9616",
+ "invoice_date": "03/10/2026",
+ "net_amount": 437.5,
+ "vat_rate": 13,
+ "vat_amount": 56.88,
+ "gross_amount": 494.38,
+ "line_items": [
+  {
+   "description": "Συσκευασία δεμάτων",
+   "quantity": 150,
+   "unit_price": 0.85,
+   "line_total": 127.5
+  },
+  {
+   "description": "Μεταφορικά έξοδα",
+   "quantity": 1,
+   "unit_price": 85.0,
+   "line_total": 85.0
+  },
+  {
+   "description": "Καφές espresso 1kg",
+   "quantity": 12,
+   "unit_price": 18.75,
+   "line_total": 225.0
+  }
+ ]
+}

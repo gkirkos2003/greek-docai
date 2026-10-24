@@ -1,0 +1,44 @@
+{
+ "issuer_name": "ΚΡΗΤΙΚΗ ΔΙΑΝΟΜΗ Μ.Ε.Π.Ε.",
+ "issuer_vat": "560516116",
+ "client_name": "ΑΦΟΙ ΠΑΠΑΔΟΠΟΥΛΟΥ Ο.Ε.",
+ "client_vat": "618146651",
+ "invoice_number": "1/3476",
+ "invoice_date": "15/08/2026",
+ "net_amount": 1691.0,
+ "vat_rate": 24,
+ "vat_amount": 405.84,
+ "gross_amount": 2096.84,
+ "line_items": [
+  {
+   "description": "Υπηρεσίες συντήρησης",
+   "quantity": 1,
+   "unit_price": 450.0,
+   "line_total": 450.0
+  },
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 9,
+   "unit_price": 24.5,
+   "line_total": 220.5
+  },
+  {
+   "description": "Συσκευασία δεμάτων",
+   "quantity": 150,
+   "unit_price": 0.85,
+   "line_total": 127.5
+  },
+  {
+   "description": "Ώρες τεχνικής υποστήριξης",
+   "quantity": 11,
+   "unit_price": 55.0,
+   "line_total": 605.0
+  },
+  {
+   "description": "Τσιμέντο 25kg",
+   "quantity": 40,
+   "unit_price": 7.2,
+   "line_total": 288.0
+  }
+ ]
+}

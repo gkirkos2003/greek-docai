@@ -1,0 +1,38 @@
+{
+ "issuer_name": "ΑΦΟΙ ΠΑΠΑΔΟΠΟΥΛΟΥ Ο.Ε.",
+ "issuer_vat": "191130615",
+ "client_name": "ΜΑΡΙΝΟΣ ΑΕΒΕ",
+ "client_vat": "487682509",
+ "invoice_number": "3/5148",
+ "invoice_date": "09/10/2026",
+ "net_amount": 1593.25,
+ "vat_rate": 24,
+ "vat_amount": 382.38,
+ "gross_amount": 1975.63,
+ "line_items": [
+  {
+   "description": "Ώρες τεχνικής υποστήριξης",
+   "quantity": 13,
+   "unit_price": 55.0,
+   "line_total": 715.0
+  },
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 6,
+   "unit_price": 24.5,
+   "line_total": 147.0
+  },
+  {
+   "description": "Υπηρεσίες συντήρησης",
+   "quantity": 1,
+   "unit_price": 450.0,
+   "line_total": 450.0
+  },
+  {
+   "description": "Καφές espresso 1kg",
+   "quantity": 15,
+   "unit_price": 18.75,
+   "line_total": 281.25
+  }
+ ]
+}

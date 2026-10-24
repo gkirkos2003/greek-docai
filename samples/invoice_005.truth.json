@@ -1,0 +1,38 @@
+{
+ "issuer_name": "ΚΡΗΤΙΚΗ ΔΙΑΝΟΜΗ Μ.Ε.Π.Ε.",
+ "issuer_vat": "896487718",
+ "client_name": "ΤΕΧΝΟΔΟΜΗ Ι.Κ.Ε.",
+ "client_vat": "484974575",
+ "invoice_number": "9/575",
+ "invoice_date": "27/08/2026",
+ "net_amount": 956.2,
+ "vat_rate": 24,
+ "vat_amount": 229.49,
+ "gross_amount": 1185.69,
+ "line_items": [
+  {
+   "description": "Χαρτί Α4 80gr (κιβώτιο)",
+   "quantity": 5,
+   "unit_price": 24.5,
+   "line_total": 122.5
+  },
+  {
+   "description": "Υπηρεσίες συντήρησης",
+   "quantity": 1,
+   "unit_price": 450.0,
+   "line_total": 450.0
+  },
+  {
+   "description": "Μελάνι εκτυπωτή HP 305",
+   "quantity": 3,
+   "unit_price": 31.9,
+   "line_total": 95.7
+  },
+  {
+   "description": "Τσιμέντο 25kg",
+   "quantity": 40,
+   "unit_price": 7.2,
+   "line_total": 288.0
+  }
+ ]
+}
